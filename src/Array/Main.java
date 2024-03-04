@@ -6,7 +6,7 @@ public class Main {
     public static void main (String [] args){
         Scanner input = new Scanner(System.in);
         System.out.println("Tugas Array Prodemy");
-        System.out.println("1. Array 1 Dimensi \n2. Penjumlahan Array\n 3. Array 2D dan Penjumlahannya\n4. Transpose Array");
+        System.out.println("1. Array 1 Dimensi \n2. Penjumlahan Array\n3. Array 2D dan Penjumlahannya\n4. Transpose Array");
         System.out.print("Masukkan Pilihan = ");
         int n = input.nextInt();
 
